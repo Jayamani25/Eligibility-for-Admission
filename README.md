@@ -4,18 +4,26 @@
 To write C# program to find the eligibility for admission to an engineering course.
 
 ## Algorithm:
-Step 1: 
+Step 1:
+
 Get the three subject marks from the user.
+
 Step 2:
+
 Check the following conditions mentioned in the question using if-else statement.
+
 Step 3:
+
 Print the appropriate output by statisfying the conditions.
+
 Step 4:
+
 End the program.
 
 ## Program:
-Developed by:Jayamani.R
-Reg no:212222100014
+Developed By : Jayamani.R
+
+Reg no : 212222100014
 ```C#
 using System;
 namespace hi
