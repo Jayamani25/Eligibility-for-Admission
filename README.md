@@ -21,9 +21,7 @@ Step 4:
 End the program.
 
 ## Program:
-Developed By : Jayamani.R
 
-Reg no : 212222100014
 ```C#
 using System;
 namespace hi
